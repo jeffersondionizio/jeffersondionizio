@@ -31,6 +31,15 @@ Desenvolvo sistemas web e mobile voltados a problemas reais: gestão pública, s
 - **Portal Administrativo** — módulos de gestão, processos e integrações para ambiente público.
 - **PSS 2024** — sistema web para processos seletivos, inscrições e análise de documentos.
 
+## Case visual
+
+### Futebol no Celular
+
+Landing page responsiva de produto, feita em **Vue 3 + Vite + PrimeVue**. O trabalho reúne estrutura de conversão, hierarquia visual e experiência mobile-first para apresentar um aplicativo ao público.
+
+<p align="center">
+  <img src="assets/futebolnocelular-hero.png" alt="Landing page Futebol no Celular" width="760" />
+</p>
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/jefferson-dionizio-848157386/)
