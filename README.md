@@ -1,97 +1,38 @@
-## Hi there 👋
+# Jefferson Dionizio
 
-<h1 align="center">Fala aí 👋, eu sou Jefferson</h1>
+**Analista de Desenvolvimento de Sistemas · Manaus, AM**
 
-<p align="center">
-  💻 Desenvolvedor Full Stack<br>
-  ⚡ Criando apps, APIs e soluções escaláveis<br>
-  🚀 Focado em performance e projetos reais
-</p>
+Desenvolvo sistemas web e mobile voltados a problemas reais: gestão pública, saúde, processos seletivos e produtos digitais. Trabalho com back-end, interfaces e integração de serviços — da regra de negócio à entrega.
 
----
+## Atuação
 
-## 🧠 Sobre mim
+- Sistemas internos para a **SEMSA Manaus**, com foco em gestão e operação de serviços públicos.
+- Experiência anterior no **DETRAN-AM** (2023).
+- Aplicações web para gestão administrativa, seleção de candidatos, documentos e relatórios.
+- Apps Android e produtos próprios, incluindo soluções para organização de partidas e comunidades esportivas.
 
-Sou desenvolvedor com foco em aplicações modernas, trabalhando principalmente com:
+## Stack principal
 
-- 📱 Apps Android (Kotlin)
-- ☁️ Backend serverless (AWS Lambda + DynamoDB)
-- 🌐 APIs e sistemas web (Laravel + PostgreSQL)
+- **Back-end:** PHP, Laravel, APIs REST, Inertia, autenticação e integrações.
+- **Front-end:** Vue 3, TypeScript, PrimeVue, Tailwind CSS, Vite.
+- **Mobile:** Kotlin, Android SDK, Firebase, Retrofit, Hilt e arquitetura para apps nativos.
+- **Dados e cloud:** PostgreSQL, DynamoDB, AWS Lambda, S3 e serviços Firebase.
+- **Qualidade e entrega:** Git, GitHub, GitLab, testes, revisão de código e automação de builds.
 
-Atualmente estou desenvolvendo um app de gerenciamento de peladas ⚽ com:
+## No que estou trabalhando
 
-- Perfis de jogadores  
-- Estatísticas e rankings  
-- Histórico de partidas  
-- Sistema de avaliações  
+- Evolução de sistemas de gestão pública em Laravel + Vue.
+- Apps Android com foco em experiência prática, performance e manutenção.
+- Ferramentas e fluxos de desenvolvimento assistidos por IA, incluindo skills e automações para times técnicos.
 
----
+## Projetos
 
-## ⚙️ Tecnologias que uso
+- **Cade Pelada** — app Android para organizar partidas, jogadores, histórico e estatísticas.
+- **Portal Administrativo** — módulos de gestão, processos e integrações para ambiente público.
+- **PSS 2024** — sistema web para processos seletivos, inscrições e análise de documentos.
 
-### 🚀 Mobile
-- Kotlin
-- Retrofit
+## Contato
 
-### 🌐 Backend
-- Node.js (AWS Lambda)
-- DynamoDB
-- Laravel
+- [LinkedIn](https://www.linkedin.com/in/jefferson-dionizio-848157386/)
 
-### 🗄️ Banco de Dados
-- PostgreSQL
-
-### 💻 Frontend
-- Vue.js
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 Projetos em destaque
-
-⚽ App de Pelada  
-> Sistema completo para organizar partidas, jogadores e estatísticas
-
-☁️ API Serverless  
-> Backend escalável usando AWS Lambda + DynamoDB
-
-🌐 Sistemas Web  
-> Aplicações com Laravel + PostgreSQL
-
----
-
-## 🎯 Foco atual
-
-- Criar apps viciantes e escaláveis  
-- Melhorar performance e arquitetura  
-- Monetizar projetos próprios 💰  
-
----
-
-## 🌎 Onde me encontrar
-
-- 🌐 Seu site: https://www.bibiprogramadortop.win/
-- 💼 LinkedIn: https://www.linkedin.com/in/jefferson-dionizio-848157386/
-
----
-
-## ⚡ Filosofia
-
-> "Código bom resolve problema. Código ótimo escala solução."
-
----
-
-<p align="center">
-  🚀 Sempre evoluindo, sempre construindo.
-</p>
+> Código útil é o que melhora um processo real e continua sustentável depois da entrega.
